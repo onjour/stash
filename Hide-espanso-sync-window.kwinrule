@@ -1,0 +1,7 @@
+[Hide Espanso Sync Tool Window]
+Description=Hide Espanso Sync Tool Window
+skiptaskbar=true
+skiptaskbarrule=2
+title=Espanso Sync Tool
+titlematch=2
+wmclasscomplete=true
